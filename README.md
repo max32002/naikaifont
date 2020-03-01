@@ -22,7 +22,7 @@
 
 ## 著作權與授權
 
-* 本字型是基於 SIL Open Font License 1.1 改造twinklem_seto所開發、發表的「[瀨戶字體](http://setofont.osdn.jp/)」字型。
+* 本字型是基於 SIL Open Font License 1.1 改造かにさわ(twinklem_seto)所開發、發表的「[瀨戶字體](http://setofont.osdn.jp/)」字型。
 * 本字型亦基於 SIL Open Font License 1.1 授權條款免費公開，關於授權合約的內容、免責事項等細節，請詳讀 License 文件。
     * 本字型可自由使用在印刷、影像、網路或任何媒體上，不限個人或商業使用。
     * 您可基於 SIL Open Font License 1.1 的規定再散佈或改造本字型。
