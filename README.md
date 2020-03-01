@@ -12,13 +12,17 @@
 
 ![內海字體](https://github.com/max32002/naikaifont/raw/master/preview/preview.png)
 
+### 清除 setofont 裡空白的文字
+
+瀨戶字體setofont 裡有很多空白的字， 會造成無法讓系統自動用預設字體來補字，已清除空白的文字。
+
 ## 下載字型
 
 請點選GitHub此畫面右上綠色「Clone or download」按鈕，並選擇「Download ZIP」，或點進想下載的ttf字型檔案，再點「Download」的按鈕進行下載。
 
 ## 此為公測版
 
-目前仍是Beta公測版本，歡迎提供測試反饋，請直接反饋在GitHub的Issues中。
+目前是Beta公測版本，歡迎提供測試反饋，請直接反饋在GitHub的Issues中。
 
 ## 著作權與授權
 
