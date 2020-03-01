@@ -10,6 +10,8 @@
 
 原本的瀨戶字體放在Medium 字重(Style) 裡，透過程式自動產生Light、Regular、SemiBold 3個字重(Style)。在Light 字重裡，可能會因為筆劃太細造成某些筆畫消失，在SemiBold字重裡，可能會因為筆劃太粗造成某些筆畫重疊難以辦識。
 
+![內海字體](https://github.com/max32002/naikaifont/raw/master/preview/preview.png)
+
 ## 下載字型
 
 請點選GitHub此畫面右上綠色「Clone or download」按鈕，並選擇「Download ZIP」，或點進想下載的ttf字型檔案，再點「Download」的按鈕進行下載。
