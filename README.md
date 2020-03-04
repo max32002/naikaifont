@@ -30,6 +30,8 @@
 
 增加47字如下：㧒㧳㪗㾪䆀䉔䘼䩉䫀䫌螿蟧蟮蟳蠩覕譀趒趖跍跔跤踅踮蹛軁迌遢邋鐤雺頦骿魩鰇𠕇𠢕𠲿𢓜𣍐𤆬𤏸𤺪𥰔𥴊𨑨𡳞
 
+![臺灣閩南語推薦用字700字表](https://github.com/max32002/naikaifont/raw/master/preview/preview_taiwaness.png)
+
 ## 下載字型
 
 請點選GitHub此畫面右上綠色「Clone or download」按鈕，並選擇「Download ZIP」，或點進想下載的ttf字型檔案，再點「Download」的按鈕進行下載。
