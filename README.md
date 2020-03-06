@@ -30,13 +30,19 @@
 
 增加47字如下：㧒㧳㪗㾪䆀䉔䘼䩉䫀䫌螿蟧蟮蟳蠩覕譀趒趖跍跔跤踅踮蹛軁迌遢邋鐤雺頦骿魩鰇𠕇𠢕𠲿𢓜𣍐𤆬𤏸𤺪𥰔𥴊𨑨𡳞
 
+![臺灣閩南語推薦用字700字表](https://github.com/max32002/naikaifont/raw/master/preview/preview_taiwaness.png)
+
 ## 下載字型
 
 請點選GitHub此畫面右上綠色「Clone or download」按鈕，並選擇「Download ZIP」，或點進想下載的ttf字型檔案，再點「Download」的按鈕進行下載。
 
-## 此為公測版
+## 附註
 
-目前是Beta公測版本，歡迎提供測試反饋，請直接反饋在GitHub的Issues中。
+* 補的缺字，效果差強人意，聊勝於無。
+* 目前是Beta公測版本，歡迎提供測試反饋，請直接反饋在GitHub的Issues中。
+* 「豬」、「箸」日文漢字中的「者」有多一點，保留setofont的寫法，目前沒有刪掉多的點。
+* 「偏」字上面沿用日文寫法「戸」，沒有改成台灣用法「戶」。
+* 只要是 setofont 中有的，都不會被刻意移除，除了空白的字。
 
 ## 著作權與授權
 
