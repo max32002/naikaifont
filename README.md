@@ -6,7 +6,7 @@
 
 補齊台灣教育部列出的 4,808 個常用字，增加65字如下：螃螎螞蟈蟑諉賅賒賬贗趟趴跺踩踫踱蹝蹦蹺躂躉躲躺逛遴鄉醣鈉鈣鈽鈾鉻銬銳銻銼鋁鋅錳錶鎂鎊鎢鎳鏍鐮閡閱闆阱陴霉靶頹颳餵餿饞馱鬍鱖鵪鷥麂鼴齜
 
-### 5種字重
+### 5種字重(Style)
 
 * Light
 * Regular
@@ -14,7 +14,9 @@
 * SemiBold
 * Bold
 
-原本的瀨戶字體放在Medium 字重(Style) 裡，透過程式自動產生Light、Regular、SemiBold 3種新的字重(Style)。Regular字重是把原本的setofont微微調細一點點。在Light的字重裡，可能會因為筆劃太細造成某些筆畫消失。在SemiBold和Bold的字重裡，可能會因為筆劃太粗造成某些筆畫重疊難以識別，有粗體字的需求，可以先挑戰使用Bold字重看看，如果發現效果不如預期，再改用SemiBold字重。
+原本的瀨戶字體放在Medium 字重裡，透過程式自動產生Light、Regular、SemiBold、Bold 新的字重。Regular字重是把原本的setofont微微調細一點點。在Light的字重裡，可能會因為筆劃太細造成某些筆畫消失。在SemiBold和Bold的字重裡，可能會因為筆劃太粗造成某些筆畫重疊難以識別，有粗體字的需求，可以先挑戰使用Bold字重看看，如果發現效果不如預期，再改用SemiBold字重。
+
+不能確定自動產生出來的字重裡每一個都是完整的字，畢盡程式會誤判是常有的事情，所以不是在Regular字重裡的筆劃可能會消失。
 
 ![內海字體](https://github.com/max32002/naikaifont/raw/master/preview/preview.png)
 
