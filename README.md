@@ -34,6 +34,12 @@
 
 ![臺灣閩南語推薦用字700字表](https://github.com/max32002/naikaifont/raw/master/preview/preview_taiwaness.png)
 
+### 增加部份的粵語字
+
+感謝網友scott luke，貢獻增加40字如下：㓤㖡㖭㖿㗎㗾㧬㨘㩒㬹㷫㹴䁪䢂䱽螆蠄裇覅趷踎踭蹾躀躝軚輋酶醖鈈鈪鎅鐧閪餸骾髧鮋鯭鰂
+
+![部份的粵語字](https://github.com/max32002/naikaifont/raw/master/preview/preview_hongkong.png)
+
 ## 下載字型
 
 請點選GitHub此畫面右上綠色「Clone or download」按鈕，並選擇「Download ZIP」，或點進想下載的ttf字型檔案，再點「Download」的按鈕進行下載。
