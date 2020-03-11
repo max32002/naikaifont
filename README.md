@@ -70,3 +70,17 @@
 ## 相關文章
 
 https://max-everyday.com/2020/03/naikaifont/
+
+## 相關影片：
+* [MaxCodeReview] FontForge 補缺字：㧳 (內海字體)
+https://youtu.be/ugrR1Oh0LSw
+* [MaxCodeReview] FontForge 補缺字：鷥 (內海字體)
+https://youtu.be/9ho81gUPKjc
+* [MaxCodeReview] FontForge 補缺字：麂 (內海字體)
+https://youtu.be/Izft1O-e22g
+* [MaxCodeReview] FontForge 補缺字：鼴 (內海字體)
+https://youtu.be/N4hCLq-Db9A
+* [MaxCodeReview] FontForge 補缺字：齜 (內海字體)
+https://youtu.be/X4X-m-vthw8
+* [MaxCodeReview] FontForge 補缺字：霉 (內海字體)
+https://youtu.be/QjZNT8uBwMg
