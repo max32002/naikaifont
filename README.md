@@ -1,4 +1,4 @@
-「內海字體」是基於[瀨戶字體](http://setofont.osdn.jp/)的開放原始碼中文字型，目前字型內文字和符號字數在：31,840個。
+「內海字體」是基於[瀨戶字體](http://setofont.osdn.jp/)的開放原始碼中文字型，目前字型內文字和符號字數在：31,933個。
 
 ## 字體特色
 
@@ -46,6 +46,14 @@
 
 ![原作者瀨戶的擴充字](https://github.com/max32002/naikaifont/raw/master/preview/preview_setofont_ex.png)
 
+### 取用「jf open 粉圓」的部份字
+
+在內海字體增加48字，直接來自粉圓字體：㋿蟅蟴衪衹褔褟襬觩詗誆誏誒謢譭跩踄蹓蹧蹩遛酐酚酮酯醚醛鈦銨鋇鋯鋰錸鍘鍺鎘鎩隡霝頜饈髂魟魠魽鴯鶘鷰
+
+希望未來的某一天會出現勇者，把上面的字重作為瀨戶字體風格。
+
+jf open 粉圓: https://github.com/justfont/open-huninn-font
+
 ## 下載字型
 
 請點選GitHub此畫面右上綠色「Clone or download」按鈕，並選擇「Download ZIP」，或點進想下載的ttf字型檔案，再點「Download」的按鈕進行下載。
@@ -63,8 +71,9 @@
 
 * 本字型是基於 SIL Open Font License 1.1 改造かにさわ(twinklem_seto)所開發、發表的「[瀨戶字體](http://setofont.osdn.jp/)」字型。
 * 本字型亦基於 SIL Open Font License 1.1 授權條款免費公開，關於授權合約的內容、免責事項等細節，請詳讀 License 文件。
-    * 本字型可自由使用在印刷、影像、網路或任何媒體上，不限個人或商業使用。
-    * 您可基於 SIL Open Font License 1.1 的規定再散佈或改造本字型。
+    * 可自由商用 不需付費、知會或標明作者，即可自由使用此字型，亦可做商業應用。
+    * 可自由傳布 可自由分享檔案、將檔案安裝於任何軟硬體中。
+    * 可自由改作為其他字型 將字型檔案修改重製為其他字型檔案，改作後的字型檔案須同樣依 Open Font License 釋出。
     
     
 ## 相關文章
