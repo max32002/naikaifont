@@ -95,3 +95,8 @@ https://youtu.be/N4hCLq-Db9A
 https://youtu.be/X4X-m-vthw8
 * [MaxCodeReview] FontForge 補缺字：霉 (內海字體)
 https://youtu.be/QjZNT8uBwMg
+
+
+## 可愛字體的應用範例
+
+* 【比特小兔】 https://www.facebook.com/BiTeXiaoTu/
