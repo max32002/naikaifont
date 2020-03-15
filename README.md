@@ -36,7 +36,7 @@
 
 ### 增加部份的粵語字
 
-感謝網友scott luke的貢獻，在內海字體增加40字如下：㓤㖡㖭㖿㗎㗾㧬㨘㩒㬹㷫㹴䁪䢂䱽螆蠄裇覅趷踎踭蹾躀躝軚輋酶醖鈈鈪鎅鐧閪餸骾髧鮋鯭鰂
+感謝網友Luke Liu的貢獻，在內海字體增加40字如下：㓤㖡㖭㖿㗎㗾㧬㨘㩒㬹㷫㹴䁪䢂䱽螆蠄裇覅趷踎踭蹾躀躝軚輋酶醖鈈鈪鎅鐧閪餸骾髧鮋鯭鰂
 
 ![部份的粵語字](https://github.com/max32002/naikaifont/raw/master/preview/preview_hongkong.png)
 
@@ -46,13 +46,6 @@
 
 ![原作者瀨戶的擴充字](https://github.com/max32002/naikaifont/raw/master/preview/preview_setofont_ex.png)
 
-### 取用「jf open 粉圓」的部份字
-
-在內海字體增加48字，直接來自粉圓字體：㋿蟅蟴衪衹褔褟襬觩詗誆誏誒謢譭跩踄蹓蹧蹩遛酐酚酮酯醚醛鈦銨鋇鋯鋰錸鍘鍺鎘鎩隡霝頜饈髂魟魠魽鴯鶘鷰
-
-希望未來的某一天會出現勇者，把上面的字重作為瀨戶字體風格。
-
-jf open 粉圓: https://github.com/justfont/open-huninn-font
 
 ## 下載字型
 
@@ -65,7 +58,7 @@ jf open 粉圓: https://github.com/justfont/open-huninn-font
 * 「豬」、「箸」日文漢字中的「者」有多一點，保留setofont的寫法，目前沒有刪掉多的點。
 * 「偏」字上面沿用日文寫法「戸」，沒有改成台灣用法「戶」。
 * 只要是 setofont 中有的，都不會被刻意移除，除了空白的字。
-* 歡迎一起來補字，如果您也有自己造字並且想更新到內海字體裡，請把您的ttf字型檔或是把您增加的字匯出成svg檔，透過email(weng.32002@gmail.com)給我，謝謝。
+* 歡迎一起來補字，如果您也有自己造字並且想更新到內海字體裡，請把您的ttf字型檔或是把您增加的字匯出成svg檔，透過email(weng.32002@gmail.com)給我，謝謝。由於是新手補字，難免補很略醜，如果您也挑戰修改了同一個字，也歡迎寄給我合併，當然您也可以另外再起一個新的字型名稱。
 
 ## 著作權與授權
 
@@ -84,6 +77,9 @@ https://max-everyday.com/2020/03/naikaifont/
 https://max-everyday.com/2020/03/bakudaifont/
 * 清松手寫體 (JasonHandWriting)
 https://jasonfonts.max-everyday.com/
+* jf open 粉圓
+https://github.com/justfont/open-huninn-font
+
 
 ## 相關影片
 
