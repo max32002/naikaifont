@@ -83,6 +83,11 @@ https://max-everyday.com/2020/03/bakudaifont/
 https://jasonfonts.max-everyday.com/
 * jf open 粉圓
 https://github.com/justfont/open-huninn-font
+* 假粉圓體
+https://github.com/max32002/FakePearl
+* 俊羽圓體
+https://github.com/max32002/YuPearl
+
 
 
 ## 相關影片
