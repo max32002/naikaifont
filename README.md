@@ -75,12 +75,18 @@
     
 ## 相關文章
 
+* 獅尾圓體 Swei Gothic
+https://max-everyday.com/2020/04/swei-gothic/
+* 獅尾黑體 Swei Sans
+https://max-everyday.com/2020/03/swei-sans/
 * 內海字體 (NaikaiFont) 
 https://max-everyday.com/2020/03/naikaifont/
 * 莫大毛筆字體 (Bakudai)
 https://max-everyday.com/2020/03/bakudaifont/
 * 清松手寫體 (JasonHandWriting)
 https://jasonfonts.max-everyday.com/
+* 源泉圓體
+https://github.com/ButTaiwan/gensen-font
 * jf open 粉圓
 https://github.com/justfont/open-huninn-font
 * 假粉圓體
@@ -109,3 +115,8 @@ https://youtu.be/QjZNT8uBwMg
 ## 可愛字體的應用範例
 
 * 【比特小兔】 https://www.facebook.com/BiTeXiaoTu/
+
+## 贊助Max
+
+很高興可以替中華民國美學盡一分心力，如果你覺得這篇文章寫的很好，想打賞Max，贊助方式如下：
+https://max-everyday.com/about/#donate
