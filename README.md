@@ -89,6 +89,8 @@ https://max-everyday.com/2020/03/swei-sans/
 https://max-everyday.com/2020/03/naikaifont/
 * 莫大毛筆字體 (Bakudai)
 https://max-everyday.com/2020/03/bakudaifont/
+* 正風毛筆字體 (MasaFont)
+https://max-everyday.com/2020/05/masafont/
 * 清松手寫體 (JasonHandWriting)
 https://jasonfonts.max-everyday.com/
 * 源泉圓體
