@@ -106,6 +106,8 @@
     
 ## 相關文章
 
+* 獅尾四季春字體 Swei Spring 
+https://max-everyday.com/2020/04/swei-spring/
 * 獅尾圓體 Swei Gothic
 https://max-everyday.com/2020/04/swei-gothic/
 * 獅尾黑體 Swei Sans
