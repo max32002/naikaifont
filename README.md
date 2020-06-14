@@ -130,6 +130,8 @@ https://github.com/max32002/FakePearl
 https://github.com/max32002/YuPearl
 * 小濑字体 / 小瀨字體 / 小瀬フォント / Kose Font
 https://github.com/lxgw/kose-font
+* cjkFonts 全瀨體
+https://www.cjkfonts.io/blog/cjkfonts_allseto
 
 
 ## 相關影片
