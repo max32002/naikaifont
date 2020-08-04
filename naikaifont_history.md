@@ -1,3 +1,7 @@
+# 2020/08/04 (ver 1.63)
+* 修改「層屠屬」三字寫法。
+![ver1.63](https://github.com/max32002/naikaifont/raw/master/preview/change_log_v1.63.png)
+
 # 2020/07/11 (ver 1.61)
 * 調整辶部寫法：㜕䃛僆嗹慩摙槤漣煺璉縺翴腿蓮螁褪褳謰蹆蹥轋鏈鰱𦟪
 
