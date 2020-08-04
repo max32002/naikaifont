@@ -88,6 +88,9 @@
 * 更新「食」部寫法為「飠」。
 * 修改「包」裡的「己」為「巳」，例如：泡、炮、飽。
 
+## 更新日誌
+[點擊此處](https://github.com/max32002/naikaifont/blob/master/naikaifont_history.md) 查看更新記錄。
+
 ## 下載字型
 
 請點選GitHub此畫面右上綠色「Clone or download」按鈕，並選擇「Download ZIP」，或點進想下載的ttf字型檔案，再點「Download」的按鈕進行下載。
