@@ -113,10 +113,22 @@
     
 ## 相關文章
 
+* 獅尾XD珍珠 Swei.XD.Pearl
+https://max-everyday.com/2020/07/swei-xd-pearl/
+* 獅尾B2黑體 Swei B2 Sans
+https://max-everyday.com/2020/07/swei-b2-sans/
+* 獅尾B2宋朝 Swei B2 Serif
+https://max-everyday.com/2020/07/swei-b2-serif/
+* 獅尾D露西 Swei D Lucy
+https://max-everyday.com/2020/07/swei-d-lucy/
 * 台灣圓體 TaiwanPearl
 https://max-everyday.com/2020/06/taiwanpearl/
-* 獅尾四季春字體 Swei Spring 
+* 獅尾肉丸 Swei Meatball
+https://max-everyday.com/2020/06/swei-meatball/
+* 獅尾四季春字體 Swei Spring
 https://max-everyday.com/2020/04/swei-spring/
+* 獅尾半月字體 Swei Gothic
+https://max-everyday.com/2020/04/swei-half-moon/
 * 獅尾圓體 Swei Gothic
 https://max-everyday.com/2020/04/swei-gothic/
 * 獅尾黑體 Swei Sans
