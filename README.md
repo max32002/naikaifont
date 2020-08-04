@@ -173,7 +173,9 @@ https://youtu.be/QjZNT8uBwMg
 
 ## 可愛字體的應用範例
 
-* 【比特小兔】 https://www.facebook.com/BiTeXiaoTu/
+* 比特小兔 https://www.facebook.com/BiTeXiaoTu/
+* 吉祥村 https://www.facebook.com/Auspicious001/
+
 
 ## 贊助Max
 
