@@ -141,9 +141,9 @@ WebFont建議使用，繁體中文常用字的內海字體-精簡版(檔案大�
 https://max-everyday.com/2020/08/swei-gothic-leg/
 * 獅尾彩虹腿 Swei.Rainbow.Leg
 https://max-everyday.com/2020/08/swei-rainbow-leg/
-* 花園肉丸
+* 花園肉丸 Hana Meatball
 https://max-everyday.com/2020/08/hana-meatball/
-* B2花園
+* B2花園 B2 Hana
 https://max-everyday.com/2020/08/b2-hana-font/
 * 獅尾XD珍珠 Swei.XD.Pearl
 https://max-everyday.com/2020/07/swei-xd-pearl/
