@@ -137,15 +137,17 @@ WebFont建議使用，繁體中文常用字的內海字體-精簡版(檔案大�
     
 ## 相關文章
 
-* 獅尾腿圓 Swei.Gothic.Leg
+* 獅尾腿圓 Swei Gothic Leg
 https://max-everyday.com/2020/08/swei-gothic-leg/
-* 獅尾彩虹腿 Swei.Rainbow.Leg
+* 獅尾彩虹腿 Swei Rainbow Leg
 https://max-everyday.com/2020/08/swei-rainbow-leg/
+* 獅尾B2腿黑體 Swei B2 Leg
+https://max-everyday.com/2020/07/swei-b2-leg/
 * 花園肉丸 Hana Meatball
 https://max-everyday.com/2020/08/hana-meatball/
 * B2花園 B2 Hana
 https://max-everyday.com/2020/08/b2-hana-font/
-* 獅尾XD珍珠 Swei.XD.Pearl
+* 獅尾XD珍珠 Swei XD Pearl
 https://max-everyday.com/2020/07/swei-xd-pearl/
 * 獅尾B2黑體 Swei B2 Sans
 https://max-everyday.com/2020/07/swei-b2-sans/
@@ -165,11 +167,11 @@ https://max-everyday.com/2020/04/swei-half-moon/
 https://max-everyday.com/2020/04/swei-gothic/
 * 獅尾黑體 Swei Sans
 https://max-everyday.com/2020/03/swei-sans/
-* 內海字體 (NaikaiFont) 
+* 內海字體 Naikai Font
 https://max-everyday.com/2020/03/naikaifont/
-* 莫大毛筆字體 (Bakudai)
+* 莫大毛筆字體 Bakudai Font
 https://max-everyday.com/2020/03/bakudaifont/
-* 正風毛筆字體 (MasaFont)
+* 正風毛筆字體 Masa Font
 https://max-everyday.com/2020/05/masafont/
 * 清松手寫體 (JasonHandWriting)
 https://jasonfonts.max-everyday.com/
