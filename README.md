@@ -102,18 +102,18 @@
 WebFont建議使用，繁體中文常用字的內海字體-精簡版(檔案大小：2.1MB)，可以服用下面的css:
 ```
 @font-face {
-  font-family: naikaifont-Regular-Lite;
-  src: url(https://github.com/max32002/naikaifont/raw/master/webfont/NaikaiFont-Regular-Lite.woff2) format("woff2")
-  , url(https://github.com/max32002/naikaifont/raw/master/webfont/NaikaiFont-Regular-Lite.woff) format("woff");
+  font-family: naikaifont;
+  src: url(https://cdn.jsdelivr.net/gh/max32002/naikaifont@1.63/webfont/NaikaiFont-Regular-Lite.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/naikaifont@1.63/webfont/NaikaiFont-Regular-Lite.woff) format("woff");
 }
 ```
 
 完整的內海字體(檔案大小：16MB)可以服用下面的css:
 ```
 @font-face {
-  font-family: naikaifont-Regular;
-  src: url(https://github.com/max32002/naikaifont/raw/master/webfont/NaikaiFont-Regular.woff2) format("woff2")
-  , url(https://github.com/max32002/naikaifont/raw/master/webfont/NaikaiFont-Regular.woff) format("woff");
+  font-family: naikaifont;
+  src: url(https://cdn.jsdelivr.net/gh/max32002/naikaifont@1.63/webfont/NaikaiFont-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/naikaifont@1.63/webfont/NaikaiFont-Regular.woff) format("woff");
 }
 ```
 
