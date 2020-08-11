@@ -174,7 +174,7 @@ https://max-everyday.com/2020/08/hana-meatball/
 
 獅尾黑體家族：
 * 獅尾B2腿黑體 Swei B2 Leg
-https://github.com/max32002/swei-b2-leg
+https://max-everyday.com/2020/07/swei-b2-leg/
 * 獅尾B2黑體 Swei B2 Sans
 https://max-everyday.com/2020/07/swei-b2-sans/
 * 獅尾腿圓 Swei Gothic Leg
