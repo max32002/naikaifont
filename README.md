@@ -202,19 +202,21 @@ https://max-everyday.com/2020/06/swei-meatball/
 * 獅尾四季春字體 Swei Spring
 https://max-everyday.com/2020/04/swei-spring/
 
-其他類：
-* 內海字體 (NaikaiFont) 
+其他字體：
+* 內海字體  Naikai Font
 https://max-everyday.com/2020/03/naikaifont/
-* 莫大毛筆字體 (Bakudai)
+* 莫大毛筆字體 Bakudai Font
 https://max-everyday.com/2020/03/bakudaifont/
-* 正風毛筆字體 (MasaFont)
+* 正風毛筆字體 Masa Font
 https://max-everyday.com/2020/05/masafont/
-* 清松手寫體 (JasonHandWriting)
+* 假粉圓體 Fake Pearl 
+https://max-everyday.com/2020/03/open-huninn-font/
+* 俊羽圓體 Yu Pearl 
+https://max-everyday.com/2020/03/yupearl/
+
+其他網站：
+* 清松手寫體 JasonHandWriting
 https://jasonfonts.max-everyday.com/
-* 假粉圓體
-https://github.com/max32002/FakePearl
-* 俊羽圓體
-https://github.com/max32002/YuPearl
 * Max學習字體相關的筆記
 https://codereview.max-everyday.com/font-readme/
 
