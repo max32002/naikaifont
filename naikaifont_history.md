@@ -1,3 +1,7 @@
+# 2020/08/12 (ver 1.67)
+* 從「小濑字体」取得「僔冒复岌嶒嶟帨杓炭瞋矰砰碃磏稙粥滕縢蒨蒹螠蠊豢达迂近逸遴郢醛靽」31字。
+![ver1.67](https://github.com/max32002/naikaifont/raw/master/preview/change_log_v1.67.png)
+
 # 2020/08/12 (ver 1.65)
 * 修改「匵櫝殰瀆牘犢瓄皾竇續藚襩覿讀贖鑟韇韥黷讀」20字。
 ![ver1.65](https://github.com/max32002/naikaifont/raw/master/preview/change_log_v1.65.png)
