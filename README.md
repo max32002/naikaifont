@@ -103,8 +103,8 @@ WebFont建議使用，繁體中文常用字的內海字體-精簡版(檔案大�
 ```
 @font-face {
   font-family: naikaifont;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/naikaifont@1.63/webfont/NaikaiFont-Regular-Lite.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/naikaifont@1.63/webfont/NaikaiFont-Regular-Lite.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/naikaifont@1.0/webfont/NaikaiFont-Regular-Lite.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/naikaifont@1.0/webfont/NaikaiFont-Regular-Lite.woff) format("woff");
 }
 ```
 
@@ -112,8 +112,8 @@ WebFont建議使用，繁體中文常用字的內海字體-精簡版(檔案大�
 ```
 @font-face {
   font-family: naikaifont;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/naikaifont@1.63/webfont/NaikaiFont-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/naikaifont@1.63/webfont/NaikaiFont-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/naikaifont@1.0/webfont/NaikaiFont-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/naikaifont@1.0/webfont/NaikaiFont-Regular.woff) format("woff");
 }
 ```
 
@@ -135,7 +135,6 @@ WebFont建議使用，繁體中文常用字的內海字體-精簡版(檔案大�
     
 ## 相關專案
 
-https://github.com/max32002/YuPearl
 * 小濑字体 / 小瀨字體 / 小瀬フォント / Kose Font
 https://github.com/lxgw/kose-font
 * cjkFonts 全瀨體
