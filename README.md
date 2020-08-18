@@ -172,6 +172,10 @@ https://max-everyday.com/2020/08/b2-hana-font/
 https://max-everyday.com/2020/08/hana-meatball/
 
 獅尾黑體家族：
+* 獅尾螺帽腿黑體 Swei Nut Leg
+https://max-everyday.com/2020/08/swei-nut-leg/
+* 獅尾螺帽黑體 Swei Nut Sans
+https://max-everyday.com/2020/08/swei-nut-sans/
 * 獅尾B2腿黑體 Swei B2 Leg
 https://max-everyday.com/2020/07/swei-b2-leg/
 * 獅尾B2黑體 Swei B2 Sans
