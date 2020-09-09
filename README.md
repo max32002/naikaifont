@@ -173,6 +173,8 @@ https://max-everyday.com/2020/08/b2-hana-font/
 https://max-everyday.com/2020/08/hana-meatball/
 
 獅尾黑體家族：
+* 獅尾霓黑體 Swei Bow Sans
+https://max-everyday.com/2020/09/swei-bow-sans/
 * 獅尾霓腿黑體 Swei Bow Leg
 https://max-everyday.com/2020/09/swei-bow-leg/
 * 獅尾蝙蝠圓體 Swei Bat Sans
