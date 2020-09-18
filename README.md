@@ -173,6 +173,8 @@ https://max-everyday.com/2020/08/b2-hana-font/
 https://max-everyday.com/2020/08/hana-meatball/
 
 獅尾黑體家族：
+* 獅尾德魯納黑體 Swei Del Luna Sans
+https://max-everyday.com/2020/09/swei-del-luna-sans/
 * 獅尾彎腿黑體 Swei Curve Leg
 https://max-everyday.com/2020/09/swei-curve-leg/
 * 獅尾彎黑體 Swei Curve Sans
@@ -185,6 +187,8 @@ https://max-everyday.com/2020/09/swei-bow-sans/
 https://max-everyday.com/2020/09/swei-bat-sans/
 * 獅尾牙膏圓體 Swei Toothpaste
 https://max-everyday.com/2020/09/swei-toothpaste/
+* 獅尾三腿黑體 Swei 3T Leg
+https://max-everyday.com/2020/09/swei-3t-leg/
 * 獅尾三角黑體 Swei 3T Sans
 https://max-everyday.com/2020/08/swei-3t-sans/
 * 獅尾螺帽腿黑體 Swei Nut Leg
