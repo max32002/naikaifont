@@ -173,6 +173,8 @@ https://max-everyday.com/2020/08/b2-hana-font/
 https://max-everyday.com/2020/08/hana-meatball/
 
 獅尾黑體家族：
+* 獅尾尖刺黑體 Swei Spike Sans
+https://max-everyday.com/2020/10/swei-spike-sans/
 * 獅尾快腿黑體 Swei Shear Leg
 https://max-everyday.com/2020/09/swei-shear-leg/
 * 獅尾快剪黑體 Swei Shear Sans
