@@ -175,6 +175,8 @@ https://max-everyday.com/2020/08/hana-meatball/
 獅尾黑體家族：
 * 獅尾鋸齒黑體 Swei Alias Sans
 https://max-everyday.com/2020/10/swei-alias-sans/
+* 獅尾尖腿黑體 Swei Spike Leg
+https://max-everyday.com/2020/10/swei-spike-leg/
 * 獅尾尖刺黑體 Swei Spike Sans
 https://max-everyday.com/2020/10/swei-spike-sans/
 * 獅尾快腿黑體 Swei Shear Leg
