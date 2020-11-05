@@ -243,6 +243,8 @@ https://max-everyday.com/2020/04/swei-gothic/
 https://max-everyday.com/2020/03/swei-sans/
 
 獅尾宋體家族：
+* 獅尾加糖宋體 Swei Sugar
+https://max-everyday.com/2020/11/swei-sugar/
 * 獅尾B2宋朝 Swei B2 Serif
 https://max-everyday.com/2020/07/swei-b2-serif/
 * 獅尾肉丸 Swei Meatball
