@@ -173,6 +173,10 @@ https://max-everyday.com/2020/08/b2-hana-font/
 https://max-everyday.com/2020/08/hana-meatball/
 
 獅尾黑體家族：
+* 獅尾惡腿黑體 Swei Devil Leg
+https://max-everyday.com/2020/11/swei-devil-leg/
+* 獅尾惡魔黑體 Swei Devil Sans
+https://max-everyday.com/2020/11/swei-devil-sans/
 * 獅尾麥腿黑體 Swei Marker Leg
 https://max-everyday.com/2020/10/swei-marker-leg/
 * 獅尾麥克黑體 Swei Marker Sans
