@@ -172,6 +172,20 @@ https://max-everyday.com/2020/08/b2-hana-font/
 * 花園肉丸 Hana Meatball
 https://max-everyday.com/2020/08/hana-meatball/
 
+簡體/繁體轉換家族：
+* 獅尾簡腿黑體 Swei Jay Leg
+https://max-everyday.com/2020/11/swei-jay-leg/
+* 獅尾簡中黑體 Swei Jay Sans
+https://max-everyday.com/2020/11/swei-jay-sans/
+* 獅尾簡中宋體 Swei Jay Serif
+https://max-everyday.com/2020/11/swei-jay-serif/
+* 獅尾繁腿黑體 Swei Fan Leg
+https://max-everyday.com/2020/11/swei-fan-leg/
+* 獅尾繁中黑體 Swei Fan Sans
+https://max-everyday.com/2020/11/swei-fan-sans/
+* 獅尾繁中宋體 Swei Fan Serif
+https://max-everyday.com/2020/11/swei-fan-serif/
+
 獅尾黑體家族：
 * 獅尾飛腿黑體 Swei Dart Leg
 https://max-everyday.com/2020/11/swei-dart-leg/
