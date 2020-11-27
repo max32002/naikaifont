@@ -132,38 +132,9 @@ WebFont建議使用，繁體中文常用字的內海字體-精簡版(檔案大�
     * 可自由商用 不需付費、知會或標明作者，即可自由使用此字型，亦可做商業應用。
     * 可自由傳布 可自由分享檔案、將檔案安裝於任何軟硬體中。
     * 可自由改作為其他字型 將字型檔案修改重製為其他字型檔案，改作後的字型檔案須同樣依 Open Font License 釋出。
+
+字體授權小提示：本字型採用 SIL Open Font License 1.1 授權發表，可以免費商用。在 github 上有附上 SIL Open Font License 1.1 的授權文件，如甲方或公司需要出示授權文件，直接使用此文件即可。
     
-    
-## 相關專案
-
-* 小濑字体 / 小瀨字體 / 小瀬フォント / Kose Font
-https://github.com/lxgw/kose-font
-* cjkFonts 全瀨體
-https://www.cjkfonts.io/blog/cjkfonts_allseto
-
-
-## 相關影片
-
-* [MaxCodeReview] FontForge 補缺字：㧳 (內海字體)
-https://youtu.be/ugrR1Oh0LSw
-* [MaxCodeReview] FontForge 補缺字：鷥 (內海字體)
-https://youtu.be/9ho81gUPKjc
-* [MaxCodeReview] FontForge 補缺字：麂 (內海字體)
-https://youtu.be/Izft1O-e22g
-* [MaxCodeReview] FontForge 補缺字：鼴 (內海字體)
-https://youtu.be/N4hCLq-Db9A
-* [MaxCodeReview] FontForge 補缺字：齜 (內海字體)
-https://youtu.be/X4X-m-vthw8
-* [MaxCodeReview] FontForge 補缺字：霉 (內海字體)
-https://youtu.be/QjZNT8uBwMg
-
-
-## 可愛字體的應用範例
-
-* 比特小兔 https://www.facebook.com/BiTeXiaoTu/
-* 吉祥村 https://www.facebook.com/Auspicious001/
-
-
 ## 相關網頁
 
 花園家族：
