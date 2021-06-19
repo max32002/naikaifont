@@ -264,6 +264,8 @@ https://max-everyday.com/2020/06/swei-meatball/
 https://max-everyday.com/2020/04/swei-spring/
 
 其他字體：
+* 苦累蛙圓體 Kurewa Gothic
+https://max-everyday.com/2021/06/kurewa-gothic/
 * 何某手寫體 Nani Font
 https://max-everyday.com/2020/09/nanifont/
 * 內海字體  Naikai Font
