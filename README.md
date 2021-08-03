@@ -158,6 +158,10 @@ https://max-everyday.com/2020/11/swei-fan-sans/
 https://max-everyday.com/2020/11/swei-fan-serif/
 
 獅尾黑體家族：
+* 獅尾右下腿黑體 Swei Right Bottom Leg
+https://max-everyday.com/2021/08/swei-right-bottom-leg/
+* 獅尾右下圓黑體 Swei Right Bottom Sans
+https://max-everyday.com/2021/08/swei-right-bottom-sans/
 * 獅尾飛腿黑體 Swei Dart Leg
 https://max-everyday.com/2020/11/swei-dart-leg/
 * 獅尾飛鏢黑體 Swei Dart Sans
@@ -264,6 +268,8 @@ https://max-everyday.com/2020/06/swei-meatball/
 https://max-everyday.com/2020/04/swei-spring/
 
 其他字體：
+* 馬路口圓體 Maruko Gothic
+https://max-everyday.com/2021/07/maruko-gothic/
 * 苦累蛙圓體 Kurewa Gothic
 https://max-everyday.com/2021/06/kurewa-gothic/
 * 何某手寫體 Nani Font
@@ -287,5 +293,7 @@ https://codereview.max-everyday.com/font-readme/
 
 ## 贊助Max
 
-很高興可以替中華民國美學盡一分心力、讓台灣擁有更好的文字風景，希望能提供另一種美學讓大家選擇，如果你覺得這篇文章寫的很好，想打賞Max，贊助方式如下：
+很高興可以替中華民國美學盡一分心力、讓台灣擁有更好的文字風景，希望能提供另一種美學讓大家選擇。
+
+如果你想支持或打賞Max，贊助方式如下：
 https://max-everyday.com/about/#donate
