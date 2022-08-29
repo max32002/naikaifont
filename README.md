@@ -54,7 +54,7 @@
 * 增加 940 簡体中文字。
 * 感谢 猫啃网 用户 猫啃新人和[落霞孤鶩lxgw(孤鹜先森)](https://www.weibo.com/u/6624339726)的修正與優化。
 
-### 合併「(cjkFonts 全瀨體](https://www.cjkfonts.io/blog/cjkfonts_allseto)」
+### 合併「[cjkFonts 全瀨體](https://www.cjkfonts.io/blog/cjkfonts_allseto)」
 
 * 從 cjkFonts 全瀨體取得 1萬1千個缺字。
 * 內海字體收錄的文字＋符號數：47,417個；全瀨體收錄文字＋符號數：42,154個。有些字的品質會是全瀨體優於內海字體，有些則相反。
