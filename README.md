@@ -112,8 +112,7 @@ WebFont建議使用，繁體中文常用字的內海字體-精簡版(檔案大�
 ```
 @font-face {
   font-family: naikaifont;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/naikaifont@1.0/webfont/NaikaiFont-Regular-Lite.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/naikaifont@1.0/webfont/NaikaiFont-Regular-Lite.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/naikaifont@1.0/webfont/NaikaiFont-Regular-Lite.woff2) format("woff2");
 }
 ```
 
@@ -121,8 +120,7 @@ WebFont建議使用，繁體中文常用字的內海字體-精簡版(檔案大�
 ```
 @font-face {
   font-family: naikaifont;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/naikaifont@1.89/webfont/NaikaiFont-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/naikaifont@1.89/webfont/NaikaiFont-Regular.woff) format("woff");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/naikaifont@1.89/webfont/NaikaiFont-Regular.woff2) format("woff2");
 }
 ```
 
